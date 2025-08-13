@@ -16,4 +16,4 @@ Users can upload images and edit them.
 
 This website i diployed to Github page
 
-. Deployment link : (https://dolminchi.github.io/se_project_spots/)
+. Deployment link : (https:/ /dolminchi.github.io/se_project_spots/)
